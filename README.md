@@ -30,6 +30,8 @@
 
 ### Tools:
 <img align="left" alt="Visual Studio Code" width="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="Intellij idea" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png" />
+<img align="left" alt="PyCharm" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/2048px-PyCharm_Icon.svg.png" />
 <img align="left" alt="Git" width="24px" src="https://git-scm.com/images/logos/logomark-orange@2x.png" />
 <img align="left" alt="GitHub" width="24px" src="https://cdn-icons-png.flaticon.com/512/733/733553.png" />
 <img align="left" alt="React" width="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
