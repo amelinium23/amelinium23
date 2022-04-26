@@ -6,14 +6,6 @@
 - Fun fact: I love to working out.
 
 ---
-<h3 align="center">Github stats</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amelinium23&theme=dark&show_icons=true" />
-</p>
-<br />
-
----
 ### Contact with me
 [<img align="left" alt="Youtube" width="24px" src="https://cdn-icons-png.flaticon.com/512/733/733590.png"/>][youtube]
 [<img align="left" alt="Instagram" width="24px" src="https://cdn-icons-png.flaticon.com/512/733/733558.png" />][instagram]
@@ -46,6 +38,14 @@
 <br />
 
 ---
+<h3 align="center">Github stats</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amelinium23&theme=dark&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amelinium23&theme=dark" /> 
+</p>
+<br />
+
 
 
 [twitter]: https://twitter.com/amelinium23
