@@ -1,9 +1,7 @@
-## Hi there, I'm Peter!
-
-### I'm student of Computer Science on TUL and developer!
-- I’m currently learning everything.
-- I'm currently working as intern in TomTom.
-- Fun fact: I love to working out.
+### Hi there, I'm Peter!
+---
+I'm student of Computer Science on TUL and developer! <br />
+I’m currently learning everything.
 
 ---
 ### Contact with me
