@@ -1,14 +1,14 @@
 ### Hi there, I'm Peter!
 ---
-I'm student of Computer Science on TUL and developer! <br />
-I’m currently learning everything.
+I'm Piotr Tomczak. I'm a Computer Science student at TUL. I'm a fullstack developer based in Lodz, Poland. Currently, I'm looking for a job as a frontend or
+fullstack software engineer. \
+My languages that I use on a daily basis are: Python, JavaScript and TypeScript. I have basic knowledge of JVM languages like: Java and Kotlin. I love working out and learning new things.
 
 ---
 ### Contact with me
-[<img align="left" alt="Youtube" width="24px" src="https://cdn-icons-png.flaticon.com/512/733/733590.png"/>][youtube]
-[<img align="left" alt="Instagram" width="24px" src="https://cdn-icons-png.flaticon.com/512/733/733558.png" />][instagram]
-[<img align="left" alt="Twitter" width="24px" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" />][twitter]
-[<img align="left" alt="LinkedIn" width="24px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
+[<img align="left" style="margin-right: 0.25%" alt="Twitter" width="30px" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" />][twitter]
+[<img align="left" style="margin-right: 0.25%" alt="LinkedIn" width="30px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
+[<img align="left" style="margin-right: 0.25%" alt="mail" width="30px" src="https://img.icons8.com/fluency/344/apple-mail.png" />][mail]
 
 <br />
 
@@ -47,6 +47,5 @@ I’m currently learning everything.
 
 
 [twitter]: https://twitter.com/amelinium23
-[youtube]: https://www.youtube.com/c/amelinium23
-[instagram]: https://www.instagram.com/amelinium23/
 [linkedin]: https://www.linkedin.com/in/piotr-tomczak-565666209
+[mail]: mailto:piotr.tomczak.praca@gmail.com
