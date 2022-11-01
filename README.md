@@ -52,7 +52,6 @@ My languages that I use on a daily basis are: Python, JavaScript and TypeScript.
 <img align="left" alt="Firebase" width="30px" src="https://pluspng.com/img-png/firebase-logo-png-firebase-logo-png-transparent-amp-svg-vector-pluspng-2400x3291.png" />
 
 <br />
-<br />
 
 ---
 
