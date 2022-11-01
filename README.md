@@ -43,13 +43,22 @@ My languages that I use on a daily basis are: Python, JavaScript and TypeScript.
 
 ---
 
-### Tools:
+### Frameworks and libraries
 
-<img align="left" alt="Git" width="30px" src="https://git-scm.com/images/logos/logomark-orange@2x.png" />
-<img align="left" alt="Jira" width="30px" src="https://logos-world.net/wp-content/uploads/2021/02/Jira-Emblem.png" />
-<img align="left" alt="GitHub" width="30px" src="https://cdn-icons-png.flaticon.com/512/733/733553.png" />
+<img align="left" alt="Flask" width="30px" src="https://pythonforundergradengineers.com/posts/zappa/images/flask_icon.png" />
+<img align="left" alt="Django" width="30px" src="https://firebearstudio.com/blog/wp-content/uploads/2015/02/Best-Django-Python-CMS-2015.png" />
+<img align="left" alt="FastAPI" width="30px" src="https://devicons.railway.app/i/fastapi.svg" />
 <img align="left" alt="React" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Firebase" width="30px" src="https://pluspng.com/img-png/firebase-logo-png-firebase-logo-png-transparent-amp-svg-vector-pluspng-2400x3291.png" />
+
+<br/>
+
+---
+
+### Tools:
+
+<img align="left" alt="Git" width="30px" src="https://i1.wp.com/boffosocko.com/wp-content/uploads/2014/09/Git_icon.svg_.png?fit=660%2C660&ssl=1" />
+<img align="left" alt="GitHub" width="30px" src="https://cdn-icons-png.flaticon.com/512/733/733553.png" />
 
 <br />
 
