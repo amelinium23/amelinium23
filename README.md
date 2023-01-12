@@ -2,8 +2,7 @@
 
 ---
 
-I'm Piotr Tomczak. I'm a Computer Science student at TUL. I'm a fullstack developer based in Lodz, Poland. Currently, I'm looking for a job as a frontend or
-fullstack software engineer. \
+I'm Piotr Tomczak. I'm a Computer Science student at TUL. I'm a fullstack developer based in Lodz, Poland. Currently, I'm working as fullstack engineer at [NiceGuys](https://niceguys.info/). \
 My languages that I use on a daily basis are: Python, JavaScript and TypeScript. I have basic knowledge of JVM languages like: Java and Kotlin. I love working out and learning new things.
 
 ---
@@ -14,6 +13,7 @@ My languages that I use on a daily basis are: Python, JavaScript and TypeScript.
 [<img align="left" style="margin-right: 0.25%" alt="LinkedIn" width="30px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
 [<img align="left" style="margin-right: 0.25%" alt="mail" width="30px" src="https://img.icons8.com/fluency/344/apple-mail.png" />][mail]
 
+<br />
 <br />
 
 ---
@@ -30,6 +30,7 @@ My languages that I use on a daily basis are: Python, JavaScript and TypeScript.
 <img align="left" alt="SQL" width="30px" src="https://cdn-icons-png.flaticon.com/512/2772/2772128.png" />
 
 <br />
+<br />
 
 ---
 
@@ -39,6 +40,7 @@ My languages that I use on a daily basis are: Python, JavaScript and TypeScript.
 <img align="left" alt="MySql" width="30px" src="https://blog.toright.com/wp-content/uploads/2011/03/verslag-techtalk-mysql.png" />
 <img align="left" alt="Supabase" width="30px" src="https://res.cloudinary.com/practicaldev/image/fetch/s---1zZlXx3--/c_fill,f_auto,fl_progressive,h_320,q_auto,w_320/https://dev-to-uploads.s3.amazonaws.com/uploads/organization/profile_image/1968/c0dbe341-1d94-4192-a93b-921519678894.png" />
 
+<br />
 <br />
 
 ---
@@ -52,6 +54,7 @@ My languages that I use on a daily basis are: Python, JavaScript and TypeScript.
 <img align="left" alt="Firebase" width="30px" src="https://pluspng.com/img-png/firebase-logo-png-firebase-logo-png-transparent-amp-svg-vector-pluspng-2400x3291.png" />
 
 <br/>
+<br />
 
 ---
 
@@ -60,6 +63,7 @@ My languages that I use on a daily basis are: Python, JavaScript and TypeScript.
 <img align="left" alt="Git" width="30px" src="https://i1.wp.com/boffosocko.com/wp-content/uploads/2014/09/Git_icon.svg_.png?fit=660%2C660&ssl=1" />
 <img align="left" alt="GitHub" width="30px" src="https://cdn-icons-png.flaticon.com/512/733/733553.png" />
 
+<br />
 <br />
 
 ---
@@ -71,16 +75,9 @@ My languages that I use on a daily basis are: Python, JavaScript and TypeScript.
 <img align="left" alt="PyCharm" width="30px" style="margin-right: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/2048px-PyCharm_Icon.svg.png" />
 
 <br />
+<br />
 
 ---
-
-<h3 align="center">Github stats</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amelinium23&theme=dark&show_icons=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amelinium23&theme=dark" /> 
-</p>
-<br />
 
 [twitter]: https://twitter.com/amelinium23
 [linkedin]: https://www.linkedin.com/in/piotr-tomczak-565666209
