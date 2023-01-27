@@ -65,6 +65,8 @@ My languages that I use on a daily basis are: Python, JavaScript and TypeScript.
 <img align="left" alt="Git" width="30px" src="https://i1.wp.com/boffosocko.com/wp-content/uploads/2014/09/Git_icon.svg_.png?fit=660%2C660&ssl=1" />
 <img align="left" alt="GitHub" width="30px" src="https://cdn-icons-png.flaticon.com/512/733/733553.png" />
 <img align="left" alt="Postman" width="30px" src="https://cdn.worldvectorlogo.com/logos/postman.svg" />
+<img align="left" alt="Jira" width="30px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/atlassian_jira_logo_icon_170511.png" />
+<img align="left" alt="Jira" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Bitbucket-blue-logomark-only.svg/1200px-Bitbucket-blue-logomark-only.svg.png" />
 
 <br />
 <br />
