@@ -9,7 +9,6 @@ My languages that I use on a daily basis are: Python, JavaScript and TypeScript.
 
 ### Contact with me
 
-[<img align="left" style="margin-right: 0.25%" alt="Twitter" width="30px" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" />][twitter]
 [<img align="left" style="margin-right: 0.25%" alt="LinkedIn" width="30px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
 [<img align="left" style="margin-right: 0.25%" alt="mail" width="30px" src="https://img.icons8.com/fluency/344/apple-mail.png" />][mail]
 
@@ -28,6 +27,7 @@ My languages that I use on a daily basis are: Python, JavaScript and TypeScript.
 <img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="SQL" width="30px" src="https://cdn-icons-png.flaticon.com/512/2772/2772128.png" />
+<img align="left" alt="GraphQL" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/1200px-GraphQL_Logo.svg.png" />
 
 <br />
 <br />
@@ -52,6 +52,8 @@ My languages that I use on a daily basis are: Python, JavaScript and TypeScript.
 <img align="left" alt="FastAPI" width="30px" src="https://devicons.railway.app/i/fastapi.svg" />
 <img align="left" alt="React" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Firebase" width="30px" src="https://pluspng.com/img-png/firebase-logo-png-firebase-logo-png-transparent-amp-svg-vector-pluspng-2400x3291.png" />
+<img align="left" alt="ApolloClient" width="30px" src="https://global.discourse-cdn.com/business5/uploads/apollographql/original/1X/25bd5104d61020fe4dc0777a5919cd009bca633e.png" />
+<img align="left" alt="SolidJs" width="30px" src="https://www.solidjs.com/img/logo/without-wordmark/logo.png" />
 
 <br/>
 <br />
@@ -62,6 +64,7 @@ My languages that I use on a daily basis are: Python, JavaScript and TypeScript.
 
 <img align="left" alt="Git" width="30px" src="https://i1.wp.com/boffosocko.com/wp-content/uploads/2014/09/Git_icon.svg_.png?fit=660%2C660&ssl=1" />
 <img align="left" alt="GitHub" width="30px" src="https://cdn-icons-png.flaticon.com/512/733/733553.png" />
+<img align="left" alt="Postman" width="30px" src="https://cdn.worldvectorlogo.com/logos/postman.svg" />
 
 <br />
 <br />
