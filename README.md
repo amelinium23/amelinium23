@@ -13,8 +13,6 @@ My languages that I use on a daily basis are: Python and TypeScript. I have basi
 <br>
 <br>
 
----
-
 ### Languages:
 
 <div style="display: flex; gap: 16px; width: 100%">
@@ -31,7 +29,6 @@ My languages that I use on a daily basis are: Python and TypeScript. I have basi
 
 <br>
 
----
 
 ### Databases:
 
@@ -45,7 +42,6 @@ My languages that I use on a daily basis are: Python and TypeScript. I have basi
 <br>
 
 
----
 
 ### Frameworks and libraries
 
@@ -61,7 +57,6 @@ My languages that I use on a daily basis are: Python and TypeScript. I have basi
 
 <br>
 
----
 
 ### Tools:
 
@@ -77,8 +72,6 @@ My languages that I use on a daily basis are: Python and TypeScript. I have basi
 
 <br>
 
-
----
 
 ### IDEs
 
