@@ -29,6 +29,8 @@ My languages that I use on a daily basis are: Python and TypeScript. I have basi
   <img align="left" alt="GraphQL" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/1200px-GraphQL_Logo.svg.png" />
 </div>
 
+<br>
+
 ---
 
 ### Databases:
@@ -39,6 +41,8 @@ My languages that I use on a daily basis are: Python and TypeScript. I have basi
   <img align="left" alt="MongoDb" src="./resources/mongo.png" />
   <img align="left" alt="Firebase" width="40px" src="https://pluspng.com/img-png/firebase-logo-png-firebase-logo-png-transparent-amp-svg-vector-pluspng-2400x3291.png" />
 </div>
+
+<br>
 
 
 ---
@@ -55,6 +59,8 @@ My languages that I use on a daily basis are: Python and TypeScript. I have basi
   <img align="left" alt="SolidJs" width="40px" src="https://www.solidjs.com/img/logo/without-wordmark/logo.png" />
 </div>
 
+<br>
+
 ---
 
 ### Tools:
@@ -68,6 +74,8 @@ My languages that I use on a daily basis are: Python and TypeScript. I have basi
   <img align="left" alt="DBeaver" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/DBeaver_logo.svg/2048px-DBeaver_logo.svg.png" />
   <img align="left" alt="Gitlab" width="40px" src="https://images.ctfassets.net/xz1dnu24egyd/1IRkfXmxo8VP2RAE5jiS1Q/ea2086675d87911b0ce2d34c354b3711/gitlab-logo-500.png" />
 </div>
+
+<br>
 
 
 ---
