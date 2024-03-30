@@ -40,8 +40,7 @@ My languages that I use on a daily basis are: Python and TypeScript. I have basi
 </div>
 
 <br>
-
-
+<br>
 
 ### Frameworks and libraries
 
