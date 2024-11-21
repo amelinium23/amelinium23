@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm Piotr Tomczak. I'm a Computer Science student at TUL. I'm a fullstack developer based in Lodz, Poland. Currently, I'm working as fullstack engineer at [NiceGuys](https://niceguys.info/). \
+I'm Piotr Tomczak. I obtained a Masters degree in Computer Science at TUL. I'm a fullstack developer based in Lodz, Poland. Currently, I'm working as fullstack engineer at [NiceGuys](https://niceguys.info/). \
 My languages that I use on a daily basis are: Python and TypeScript. I have basic knowledge of JVM languages like: Java and Kotlin.
 
 ---
