@@ -1,7 +1,8 @@
 # Hi there! 👋
 
-I'm Piotr Tomczak. I obtained a Masters degree in Computer Science at TUL. I'm a fullstack developer based in Lodz, Poland. Currently, I'm working as fullstack engineer at [NiceGuys](https://niceguys.info/). \
-My languages that I use on a daily basis are: Python and TypeScript. I have basic knowledge of JVM languages like: Java and Kotlin.
+I obtained a Masters degree in Computer Science at TUL. I'm a fullstack developer based in Lodz, Poland. Currently, I'm working as a fullstack engineer at [NiceGuys](https://niceguys.info/). My primary languages are Python and TypeScript, which I use on a daily basis.
+
+I have a strong passion for learning new technologies and improving my skills. I enjoy working on challenging projects that require innovative solutions. In my free time, I participate in coding communities to stay updated with the latest trends in software development.
 
 ---
 
@@ -34,8 +35,8 @@ My languages that I use on a daily basis are: Python and TypeScript. I have basi
 
 <div style="display: flex; gap: 16px; width: 100%">
   <img align="left" alt="Postgres" width="40px" src="https://logonoid.com/images/postgresql-logo.png" />
-  <img align="left" alt="SupaBase" width="40px" src="https://res.cloudinary.com/practicaldev/image/fetch/s---1zZlXx3--/c_fill,f_auto,fl_progressive,h_320,q_auto,w_320/https://dev-to-uploads.s3.amazonaws.com/uploads/organization/profile_image/1968/c0dbe341-1d94-4192-a93b-921519678894.png" />
-  <img align="left" alt="MongoDb" src="./resources/mongo.png" />
+  <img align="left" alt="SupaBase" width="40px" src="./resources/supabase.png" />
+  <img align="left" alt="MongoDb" width="40px" src="./resources/mongodb.png" />
   <img align="left" alt="Firebase" width="40px" src="https://pluspng.com/img-png/firebase-logo-png-firebase-logo-png-transparent-amp-svg-vector-pluspng-2400x3291.png" />
 </div>
 
@@ -50,8 +51,9 @@ My languages that I use on a daily basis are: Python and TypeScript. I have basi
   <img align="left" alt="FastAPI" width="40px" src="https://devicons.railway.app/i/fastapi.svg" />
   <img align="left" alt="React" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
   <img align="left" alt="NextJs" width="40px" src="./resources/Next.js.png" />
-  <img align="left" alt="ApolloClient" width="40px" src="https://global.discourse-cdn.com/business5/uploads/apollographql/original/1X/25bd5104d61020fe4dc0777a5919cd009bca633e.png" />
+  <img align="left" alt="ApolloClient" width="40px" src="./resources/apollo.png" />
   <img align="left" alt="SolidJs" width="40px" src="https://www.solidjs.com/img/logo/without-wordmark/logo.png" />
+  <img align="left" alt="Angular" width="40px" src="./resources/angular.png"/>
 </div>
 
 <br>
@@ -67,17 +69,6 @@ My languages that I use on a daily basis are: Python and TypeScript. I have basi
   <img align="left" alt="Bitbucket" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Bitbucket-blue-logomark-only.svg/1200px-Bitbucket-blue-logomark-only.svg.png" />
   <img align="left" alt="DBeaver" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/DBeaver_logo.svg/2048px-DBeaver_logo.svg.png" />
   <img align="left" alt="Gitlab" width="40px" src="https://images.ctfassets.net/xz1dnu24egyd/1IRkfXmxo8VP2RAE5jiS1Q/ea2086675d87911b0ce2d34c354b3711/gitlab-logo-500.png" />
-</div>
-
-<br>
-
-
-### IDEs
-
-<div style="display: flex; gap: 16px; width: 100%">
-  <img align="left" alt="Visual Studio Code" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png" />
-  <img align="left" alt="Intellij idea" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png" />
-  <img align="left" alt="PyCharm" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/2048px-PyCharm_Icon.svg.png" />
 </div>
 
 
