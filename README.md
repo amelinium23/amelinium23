@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I obtained a Masters degree in Computer Science at TUL. I'm a fullstack developer based in Lodz, Poland. Currently, I'm working as a fullstack engineer at [NiceGuys](https://niceguys.info/). My primary languages are Python and TypeScript, which I use on a daily basis.
+I obtained a Masters degree in Computer Science at TUL. I'm a fullstack developer based in Lodz, Poland. Currently, I'm working as a fullstack engineer at [Appliscale](https://appliscale.io/). My primary languages are Python and TypeScript, which I use on a daily basis.
 
 I have a strong passion for learning new technologies and improving my skills. I enjoy working on challenging projects that require innovative solutions. In my free time, I participate in coding communities to stay updated with the latest trends in software development.
 
